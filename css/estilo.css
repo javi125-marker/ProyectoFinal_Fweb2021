@@ -340,20 +340,20 @@ table {
 ion-icon {
     font-size: 20px;
     color: rgb(199, 23, 23);
-    margin-right: 30px;
+    margin-right: 300px;
     margin-left: -5px;
     padding-left: 0.5rem;
     position: relative;
 }
 
 .icon-ok>ion-icon {
-    padding: 0rem;
+    padding: 50rem;
 }
 
 .d-flex {
     display: flex;
     justify-content: center;
-    padding: 20px;
+    padding: 2000px;
     width: 100%;
     margin: 15px;
 }
