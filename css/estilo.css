@@ -87,7 +87,7 @@ td {
 
 .sub-content p {
     font-weight: 500;
-    color: #1bc59b;
+    color: #2731b8;
     margin-bottom: 30px;
 }
 
@@ -96,7 +96,7 @@ td {
     top: 20px;
     right: 15px;
     font-size: 25px;
-    color: #1bc59b;
+    color: #1b51c5;
     cursor: pointer;
 }
 
@@ -322,12 +322,12 @@ table {
     color: rgb(150, 18, 18);
     border-radius: 0.5rem;
     width: 100%;
-    height: 2.5rem;
+    height: 3rem;
     vertical-align: middle;
 }
 
 .btnn {
-    border-radius: 100%;
+    border-radius: 10%;
     color: brown;
     height: 3em;
     width: 3em;
@@ -339,7 +339,7 @@ table {
 
 ion-icon {
     font-size: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(199, 23, 23);
     margin-right: 30px;
     margin-left: -5px;
     padding-left: 0.5rem;
